@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+}
+/* body {
+  background-color: #171725;
+  color: #ffff;
+} */
+
+
+ .container {
+  width: 60% !important;
+
+}
+
+@media(max-width:991px) {
+  .container {
+    width: 100% !important;
+  
+  }
+} 
